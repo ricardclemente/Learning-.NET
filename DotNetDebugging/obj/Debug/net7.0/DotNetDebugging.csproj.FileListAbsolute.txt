@@ -1,0 +1,15 @@
+C:\Developer\Learn .Net\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Developer\Learn .Net\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Developer\Learn .Net\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Developer\Learn .Net\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Developer\Learn .Net\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Developer\Learn .Net\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll

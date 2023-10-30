@@ -30,3 +30,6 @@ C:\Developer\Learn .Net\PizzaStore\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNe
 C:\Developer\Learn .Net\PizzaStore\PizzaStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Developer\Learn .Net\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 C:\Developer\Learn .Net\PizzaStore\PizzaStore\obj\Debug\net6.0\PizzaStore.csproj.CopyComplete
+C:\Developer\Learn .Net\PizzaStore\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Developer\Learn .Net\PizzaStore\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Developer\Learn .Net\PizzaStore\PizzaStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
